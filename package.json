@@ -1,0 +1,31 @@
+{
+  "name": "city-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^5.2.5",
+    "nodemon": "^1.18.3",
+    "restify": "^7.2.1",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "@types/restify": "^7.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habeascorpse/city-assistant.git"
+  },
+  "keywords": [
+    "smartcity"
+  ],
+  "author": "Alan de Oliveira Silva Lenk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/habeascorpse/city-assistant/issues"
+  },
+  "homepage": "https://github.com/habeascorpse/city-assistant#readme"
+}
